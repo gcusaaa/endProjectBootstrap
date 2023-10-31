@@ -6,5 +6,27 @@
     box-sizing: border-box;
 }
 body {
-    
+    background-color: black;
+}
+.navbar {
+    padding-left: 20px;
+}
+/* #About {
+    height: 100vh;
+} */
+
+#height{
+    /* margin: 30px 40px; */
+    transform: rotate(-5deg);
+}
+#Aboutme {
+    transform: rotate(5deg);
+}
+#red-sqre{
+    position: absolute;
+    bottom: -190px;
+    width: 77%;
+    right: 0px;
+    height: 50%;
+    margin-right: 0 !important;
 }
