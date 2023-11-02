@@ -17,9 +17,16 @@ body {
 .enddd{
     float: right;
 }
+.row {
+    position: relative;
+    margin-right: -15px;
+    margin-left: -15px;
+}
 
-
-
+.font {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+}
 
 #height{
     /* margin: 30px 40px; */
