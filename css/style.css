@@ -51,3 +51,14 @@ body {
 #git {
     
 }
+.table {
+    /* color: black; */
+    --bs-table-bg: black;
+    --bs-table-color: white;
+}
+#card-row2 {
+    align-self: ;
+}
+#timeline-items {
+    border-bottom: 1px solid white;
+}
