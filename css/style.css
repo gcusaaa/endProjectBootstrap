@@ -30,7 +30,7 @@ body {
 
 #height{
     /* margin: 30px 40px; */
-    transform: rotate(-5deg);
+    transform: rotate(-4deg);
     position: relative;
     z-index:2;
 }
@@ -38,7 +38,7 @@ body {
     /* transform: scale(.9); */
 }
 #Aboutme {
-    transform: rotate(5deg);
+    transform: rotate(4deg);
 }
 #red-sqre{
     position: absolute;
